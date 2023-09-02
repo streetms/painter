@@ -1,0 +1,9 @@
+<RCC>
+    <qresource >
+        <file>icons/circle.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/line.png</file>
+        <file>icons/pen.png</file>
+    </qresource>
+</RCC>
+
